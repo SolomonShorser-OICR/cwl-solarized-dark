@@ -1,19 +1,17 @@
 {
-    "name": "cwl-solarized-dark",
-    "version": "0.0.0",
-    "theme": "syntax",
-    "description": "CWL language syntax theme",
-    "repository":
-    {
-        "type": "git",
-        "url": "https://github.com/SolomonShorser-OICR/cwl-solarized-dark"
-    },
-    "dependencies":
-    {
-        "language-cwl": "git+https://github.com/SolomonShorser-OICR/language-cwl-atom.git"
-    },
-    "engines": {
-        "atom": "*",
-        "node": "*"
-    }
+  "name": "cwl-solarized-dark",
+  "version": "0.0.1",
+  "theme": "syntax",
+  "description": "CWL language syntax theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SolomonShorser-OICR/cwl-solarized-dark"
+  },
+  "dependencies": {
+    "language-cwl": "git+https://github.com/SolomonShorser-OICR/language-cwl-atom.git"
+  },
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  }
 }
